@@ -11,12 +11,12 @@
 </p>
 
 <p align="center">
-Made by deez.
+Made by j4v and Zeakify
 
 ##  About Us
 We hack i-Ready.
-## 🌐 Our Shit
-We know
+##  We know
+We know:
 - how to fucking hack i-Ready
 ## 🛠️ Tools 
 - OnTop
