@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  Sussy hacks.
+wen eta son?
 </p>
 
 <p align="center">
