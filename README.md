@@ -14,7 +14,7 @@ the <strong>superior</strong> i-Ready utility.
 Made by Cutie and Zeakify
 
 ##  About Us
-OnTop is a group of programmers who develop a collection of software by the same name. It is versatile software designed primarily for hacking educational platforms like i-Ready, alongside other applications for doxing, DDoSing, obfuscation, deobfuscation, and more. Currently, it is planned for hacking everything in the world. Zeakify primarily makes the cheats for unreleased utilties, while Cutie (Havoc) makes cheats for OnTop that are generally public. 
+OnTop is a group of programmers who develop a collection of software by the same name. It is versatile software designed primarily for hacking educational platforms like i-Ready, alongside other applications for doxing, DDoSing, obfuscation, deobfuscation, and more. Currently, it is planned for hacking everything in the world. Zeakify primarily makes the cheats for unreleased utilties, while Cutie (HypnoticLOL) makes cheats for OnTop that are generally public. 
 ##  Knowledge
 We know:
 - more than you
