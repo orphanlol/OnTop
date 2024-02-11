@@ -14,10 +14,12 @@ the <strong>superior</strong> i-Ready utility.
 Made by Cutie and Zeakify
 
 ##  About Us
-We hack i-Ready.
-##  We know
+OnTop is a group of programmers who develop a collection of software by the same name. It is versatile software designed primarily for hacking educational platforms like i-Ready, alongside other applications for doxing, DDoSing, obfuscation, deobfuscation, and more. Currently, it is planned for hacking everything in the world. Zeakify primarily makes the cheats for unreleased utilties, while Cutie (Havoc) makes cheats for OnTop that are generally public. 
+##  Knowledge
 We know:
-- how to fucking hack i-Ready
+- more than you
+- more than ChatGPT
+- more than your brain can fucking handle
 ## 🛠️ Tools 
 - OnTop
 - More shit coming soon, stop begging.
